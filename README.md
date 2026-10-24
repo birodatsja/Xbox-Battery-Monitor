@@ -1,5 +1,9 @@
 # Xbox-Battery-Monitor
 Montor Battery on Xbox Controller
+<img width="24" height="23" alt="image" src="https://github.com/user-attachments/assets/e04229ba-d289-4872-8041-9b586c96d83a" />
+<img width="168" height="18" alt="image" src="https://github.com/user-attachments/assets/6a80f5d3-2a6d-476b-903e-d2bd41bc06ac" />
+<img width="173" height="72" alt="image" src="https://github.com/user-attachments/assets/32c5caf9-d29e-44ee-a19a-1221dbca3ad9" />
+
 
 What’s new:
 
